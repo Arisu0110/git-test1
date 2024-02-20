@@ -34,7 +34,7 @@ This project has no license yet .
 
 **Author:**
 Arisu
-- GitHub: [Your GitHub Profile](https://github.com/Arisu0110)
+- GitHub: https://github.com/Arisu0110
 
 
 **Acknowledgements:**
