@@ -14,7 +14,7 @@ This project is an anime and manga website built using JavaScript, Bootstrap, CS
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/Arisu0110/git-test1.git
-2. Navigate to the project directory
+2. Navigate to the project directory 'cd git-test1'
 3. Open `index.html` in your web browser.
 
 **Usage:**
